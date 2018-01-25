@@ -1,8 +1,8 @@
 # css-prefixer
-Browser and PHP css comformer
+Browser Javascript and PHP css prefixer
 
 # PHP Usage
-PATH_TO_CSSCOMFORM = Path to cssconform.php script
+PATH_TO_CSSCOMFORM = Path to css-prefixer.php script
 
 CSS_FILE_PATH = Full path to css file to be conformed to standards
 
