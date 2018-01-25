@@ -1,4 +1,4 @@
-# css-conform
+# css-prefixer
 Browser and PHP css comformer
 
 # PHP Usage
